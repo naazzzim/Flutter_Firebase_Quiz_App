@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872165935180",
+    "project_id": "learn-firestore-with-auth",
+    "storage_bucket": "learn-firestore-with-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872165935180:android:8431900d73d6707929cce9",
+        "android_client_info": {
+          "package_name": "com.cloud.analytics_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872165935180-itctt2ovk3uivfrougg9t91fhqaerrhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.analytics_tut",
+            "certificate_hash": "c355b7c164444f40d87229fb4745018d096c8656"
+          }
+        },
+        {
+          "client_id": "872165935180-lln0333odkt2h43207uf40ud9fphc0b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HOiDW9xyyWuQMng6PqIjIxROI1K0eFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872165935180-lln0333odkt2h43207uf40ud9fphc0b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
